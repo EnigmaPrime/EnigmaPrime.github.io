@@ -49,10 +49,10 @@
 	}
 
 }
-.education_do_Class {
+.education_dp_Class {
 	position: absolute;
 	width: 1920px;
-	height: 1200px;
+	height: 1200.5px;
 	left: 0px;
 	top: -1px;
 	overflow: visible;
@@ -60,17 +60,25 @@
 .Background_Class {
 	position: absolute;
 	width: 1920px;
-	height: 1200px;
+	height: 1200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200.5px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 .Contact_butts_Class {
 	position: absolute;
-	width: 1920px;
-	height: 1200px;
-	left: 0px;
-	top: 0px;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892.417px;
+	top: 1034px;
 	overflow: visible;
 }
 .fb {
@@ -78,8 +86,8 @@
 	position: absolute;
 	width: 31.5px;
 	height: 31.5px;
-	left: 991px;
-	top: 1034px;
+	left: 98.583px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .gmail {
@@ -87,17 +95,9 @@
 	position: absolute;
 	width: 47.545px;
 	height: 31.5px;
-	left: 892.417px;
-	top: 1034px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Wall11_Class {
-	position: absolute;
-	width: 1920px;
-	height: 1200px;
 	left: 0px;
 	top: 0px;
-	overflow: visible;
+	transform: matrix(1,0,0,1,0,0);
 }
 .About_Butt_Class {
 	position: absolute;
@@ -203,9 +203,9 @@
 .timeline_Class {
 	position: absolute;
 	width: 1711px;
-	height: 200px;
+	height: 239.613px;
 	left: 105px;
-	top: 600px;
+	top: 537.387px;
 	overflow: visible;
 }
 .Line_2 {
@@ -214,13 +214,13 @@
 	width: 1514px;
 	height: 5px;
 	left: 71.5px;
-	top: 143.5px;
+	top: 171.922px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .ID2004_Class {
 	position: absolute;
 	left: 0px;
-	top: 129px;
+	top: 158.613px;
 	overflow: visible;
 	width: 67px;
 	white-space: nowrap;
@@ -234,7 +234,7 @@
 .Present_Class {
 	position: absolute;
 	left: 1594px;
-	top: 125px;
+	top: 155.613px;
 	overflow: visible;
 	width: 118px;
 	white-space: nowrap;
@@ -251,13 +251,13 @@
 	width: 56.369px;
 	height: 74.826px;
 	left: 277px;
-	top: 51px;
+	top: 67.011px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .iris_Class {
 	position: absolute;
 	left: 80px;
-	top: 148px;
+	top: 180.613px;
 	overflow: visible;
 	width: 113px;
 	white-space: nowrap;
@@ -274,13 +274,13 @@
 	width: 3px;
 	height: 47px;
 	left: 208.5px;
-	top: 120.5px;
+	top: 151.698px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .ID2005_Class {
 	position: absolute;
 	left: 186px;
-	top: 179px;
+	top: 218.613px;
 	overflow: visible;
 	width: 47px;
 	white-space: nowrap;
@@ -294,7 +294,7 @@
 .gba_Class {
 	position: absolute;
 	left: 214px;
-	top: 148px;
+	top: 180.613px;
 	overflow: visible;
 	width: 183px;
 	white-space: nowrap;
@@ -311,13 +311,13 @@
 	width: 3px;
 	height: 47px;
 	left: 403.5px;
-	top: 120.5px;
+	top: 151.698px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .ID2006_Class {
 	position: absolute;
 	left: 381px;
-	top: 179px;
+	top: 218.613px;
 	overflow: visible;
 	width: 47px;
 	white-space: nowrap;
@@ -331,7 +331,7 @@
 .elem_Class {
 	position: absolute;
 	left: 411px;
-	top: 147px;
+	top: 179.613px;
 	overflow: visible;
 	width: 303px;
 	white-space: nowrap;
@@ -348,13 +348,13 @@
 	width: 3px;
 	height: 47px;
 	left: 721.5px;
-	top: 120.5px;
+	top: 151.698px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .ID2012_Class {
 	position: absolute;
 	left: 698px;
-	top: 179px;
+	top: 218.613px;
 	overflow: visible;
 	width: 47px;
 	white-space: nowrap;
@@ -368,7 +368,7 @@
 .slp_Class {
 	position: absolute;
 	left: 747px;
-	top: 146px;
+	top: 185.613px;
 	overflow: visible;
 	width: 243px;
 	white-space: nowrap;
@@ -385,13 +385,13 @@
 	width: 3px;
 	height: 47px;
 	left: 1015.5px;
-	top: 120.5px;
+	top: 151.698px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .ID2016_Class {
 	position: absolute;
 	left: 993px;
-	top: 179px;
+	top: 218.613px;
 	overflow: visible;
 	width: 47px;
 	white-space: nowrap;
@@ -405,7 +405,7 @@
 .uc_Class {
 	position: absolute;
 	left: 1171px;
-	top: 147px;
+	top: 179.613px;
 	overflow: visible;
 	width: 244px;
 	white-space: nowrap;

@@ -206,10 +206,10 @@
 }
 .text_Class {
 	position: absolute;
-	width: 561px;
-	height: 21px;
-	left: 1225.583px;
-	top: 1107px;
+	width: 654px;
+	height: 23px;
+	left: 1178.583px;
+	top: 1077px;
 	overflow: visible;
 }
 .moreinfo_Class {
@@ -217,7 +217,21 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
-	width: 562px;
+	width: 655px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(225,225,225,1);
+}
+._GitHub_s_hosting_service_may__Class {
+	position: absolute;
+	left: 684px;
+	top: 812px;
+	overflow: visible;
+	width: 554px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Lucida Sans;
