@@ -3,9 +3,11 @@
 	--web-view-id: projects;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -30,9 +32,11 @@
 	--web-view-id: projects;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
 	--web-enable-deep-linking: true;
 }
 @keyframes fadein {
@@ -50,7 +54,7 @@
 	width: 1920.083px;
 	height: 1200.5px;
 	left: 0.417px;
-	top: -1px;
+	top: 0px;
 	overflow: visible;
 }
 .Background_Class {
