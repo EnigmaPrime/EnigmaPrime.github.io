@@ -1,0 +1,263 @@
+.mediaViewInfo {
+	--web-view-name: projects;
+	--web-view-id: projects;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: projects;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.projects_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: projects;
+	--web-view-id: projects;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.projects_c_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0.417px;
+	top: -1px;
+	overflow: visible;
+}
+.Background_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: -0.417px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_butts_Class {
+	position: absolute;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892px;
+	top: 1034px;
+	overflow: visible;
+}
+.fb {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 98.583px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.gmail {
+	overflow: visible;
+	position: absolute;
+	width: 47.546px;
+	height: 31.5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.About_Butt_Class {
+	position: absolute;
+	width: 405px;
+	height: 206px;
+	left: 757.583px;
+	top: 201px;
+	overflow: visible;
+}
+.about_Class {
+	position: absolute;
+	left: 303px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: about.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 98px;
+	height: 3px;
+	left: 305.5px;
+	top: 42.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Work_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Home_Class {
+	position: absolute;
+	left: 145px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.personal_Class {
+	position: absolute;
+	width: 276px;
+	height: 95px;
+	left: 57px;
+	top: 111px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Projects_de_Class {
+	position: absolute;
+	left: 37px;
+	top: 18px;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(255,255,255,1);
+}
+.text_Class {
+	position: absolute;
+	width: 1153px;
+	height: 152px;
+	left: 386.583px;
+	top: 435px;
+	overflow: visible;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1153px;
+	height: 152px;
+	left: 0px;
+	top: 0px;
+}
+.info_Class {
+	position: absolute;
+	left: 30px;
+	top: 13px;
+	overflow: visible;
+	width: 1087px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.bottom_butts_Class {
+	position: absolute;
+	width: 684.453px;
+	height: 200.167px;
+	left: 623.583px;
+	top: 668px;
+	overflow: visible;
+}
+.blender {
+	overflow: visible;
+	position: absolute;
+	width: 207.031px;
+	height: 168.167px;
+	left: 232px;
+	top: 32px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.github {
+	overflow: visible;
+	position: absolute;
+	width: 147.453px;
+	height: 200px;
+	left: 537px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.research {
+	overflow: visible;
+	position: absolute;
+	width: 134.167px;
+	height: 134.167px;
+	left: 0px;
+	top: 66px;
+	transform: matrix(1,0,0,1,0,0);
+}

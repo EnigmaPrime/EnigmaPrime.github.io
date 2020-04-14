@@ -1,0 +1,307 @@
+.mediaViewInfo {
+	--web-view-name: work;
+	--web-view-id: work;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: work;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.work_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: work;
+	--web-view-id: work;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.work_ca_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0.417px;
+	top: -1px;
+	overflow: visible;
+}
+.Background_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: -0.417px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_butts_Class {
+	position: absolute;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892px;
+	top: 1034px;
+	overflow: visible;
+}
+.fb {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 98.583px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.gmail {
+	overflow: visible;
+	position: absolute;
+	width: 47.546px;
+	height: 31.5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.butts_Class {
+	position: absolute;
+	width: 781px;
+	height: 403px;
+	left: 569.583px;
+	top: 297px;
+	overflow: visible;
+}
+.resume_butt_Class {
+	position: absolute;
+	width: 247px;
+	height: 247px;
+	left: 267px;
+	top: 103px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+.Resume_Class {
+	position: absolute;
+	left: 76px;
+	top: 205px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Icon_ionic_ios_paper {
+	overflow: visible;
+	position: absolute;
+	width: 118.219px;
+	height: 118.219px;
+	left: 64.031px;
+	top: 64.031px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.github_butt_Class {
+	position: absolute;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 103px;
+	overflow: visible;
+}
+.Rectangle_1_cm {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+.GitHub_Class {
+	position: absolute;
+	left: 82px;
+	top: 205px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome_github {
+	overflow: visible;
+	position: absolute;
+	width: 119.735px;
+	height: 116.743px;
+	left: 64px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.projects_Class {
+	position: absolute;
+	width: 247px;
+	height: 247px;
+	left: 534px;
+	top: 103px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: projects.html;
+	cursor: pointer;
+}
+.Rectangle_1_cq {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+.Projects_cr_Class {
+	position: absolute;
+	left: 73px;
+	top: 206px;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Icon_material_group_work {
+	overflow: visible;
+	position: absolute;
+	width: 130.974px;
+	height: 130.974px;
+	left: 56px;
+	top: 58px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Work_butt_Class {
+	position: absolute;
+	width: 410.5px;
+	height: 42.5px;
+	left: 182.5px;
+	top: 0px;
+	overflow: visible;
+}
+.Work_cu_Class {
+	position: absolute;
+	left: 5.5px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 98px;
+	height: 3px;
+	left: 0px;
+	top: 42.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.About_Class {
+	position: absolute;
+	left: 308.5px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: about.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Home_Class {
+	position: absolute;
+	left: 150.5px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.notice_Class {
+	position: absolute;
+	left: 224px;
+	top: 383px;
+	overflow: visible;
+	width: 334px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}

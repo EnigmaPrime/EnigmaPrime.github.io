@@ -1,0 +1,243 @@
+.mediaViewInfo {
+	--web-view-name: personal;
+	--web-view-id: personal;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: personal;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.personal_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: personal;
+	--web-view-id: personal;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.personal_bq_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0.417px;
+	top: -1px;
+	overflow: visible;
+}
+.Background_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: -0.417px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_butts_Class {
+	position: absolute;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892px;
+	top: 1034px;
+	overflow: visible;
+}
+.fb {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 98.583px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.gmail {
+	overflow: visible;
+	position: absolute;
+	width: 47.546px;
+	height: 31.5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.About_Butt_Class {
+	position: absolute;
+	width: 405px;
+	height: 206px;
+	left: 757.583px;
+	top: 201px;
+	overflow: visible;
+}
+.about_Class {
+	position: absolute;
+	left: 303px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: about.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 98px;
+	height: 3px;
+	left: 305.5px;
+	top: 42.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Work_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Home_Class {
+	position: absolute;
+	left: 145px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.personal_b_Class {
+	position: absolute;
+	width: 276px;
+	height: 95px;
+	left: 57px;
+	top: 111px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 276px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Personal_b_Class {
+	position: absolute;
+	left: 28px;
+	top: 17px;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(255,255,255,1);
+}
+.words_Class {
+	position: absolute;
+	width: 1017px;
+	height: 308px;
+	left: 451.583px;
+	top: 447px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1017px;
+	height: 253px;
+	left: 0px;
+	top: 55px;
+}
+.info_Class {
+	position: absolute;
+	left: 53px;
+	top: 87px;
+	overflow: visible;
+	width: 911px;
+	height: 190px;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 39px;
+	color: rgba(255,255,255,1);
+}
+.who_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 434px;
+	top: 0px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}

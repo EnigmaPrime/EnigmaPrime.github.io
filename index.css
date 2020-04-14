@@ -1,0 +1,228 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.index_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.main_Class {
+	position: absolute;
+	width: 3011.083px;
+	height: 2039.5px;
+	left: -545.583px;
+	top: -334px;
+	overflow: visible;
+}
+.foreground_Class {
+	position: absolute;
+	width: 3011.083px;
+	height: 2039.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Background_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 546px;
+	top: 333px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: -0.417px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_butts_Class {
+	position: absolute;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892px;
+	top: 1034px;
+	overflow: visible;
+}
+.fb {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 98.583px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.gmail {
+	overflow: visible;
+	position: absolute;
+	width: 47.546px;
+	height: 31.5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.welcome_Class {
+	position: absolute;
+	left: 1091.583px;
+	top: 611px;
+	overflow: visible;
+	width: 830px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 67px;
+	color: rgba(255,255,255,1);
+}
+.name_Class {
+	position: absolute;
+	left: 1271.583px;
+	top: 1022px;
+	overflow: visible;
+	width: 470px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.me_Class {
+	position: absolute;
+	width: 301px;
+	height: 301px;
+	left: 1355.583px;
+	top: 724px;
+	overflow: visible;
+}
+.home_butt_Class {
+	position: absolute;
+	width: 405px;
+	height: 42.5px;
+	left: 1303.583px;
+	top: 543px;
+	overflow: visible;
+}
+.Home_Class {
+	position: absolute;
+	left: 145px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 98px;
+	height: 3px;
+	left: 146.5px;
+	top: 42.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.About_Class {
+	position: absolute;
+	left: 303px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: about.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Work_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.text_Class {
+	position: absolute;
+	width: 561px;
+	height: 21px;
+	left: 1225.583px;
+	top: 1107px;
+	overflow: visible;
+}
+.moreinfo_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 562px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(225,225,225,1);
+}

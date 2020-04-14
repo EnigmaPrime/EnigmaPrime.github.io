@@ -1,0 +1,262 @@
+.mediaViewInfo {
+	--web-view-name: about;
+	--web-view-id: about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: about;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.about_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: about;
+	--web-view-id: about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.about__Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0.417px;
+	top: -1px;
+	overflow: visible;
+}
+.Background_Class {
+	position: absolute;
+	width: 1920.083px;
+	height: 1200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
+	left: -0.417px;
+	top: 0px;
+	overflow: visible;
+}
+.Contact_butts_Class {
+	position: absolute;
+	width: 130.083px;
+	height: 31.5px;
+	left: 892px;
+	top: 1034px;
+	overflow: visible;
+}
+.fb {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 31.5px;
+	left: 98.583px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.gmail {
+	overflow: visible;
+	position: absolute;
+	width: 47.546px;
+	height: 31.5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Butts_Class {
+	position: absolute;
+	width: 602px;
+	height: 247px;
+	left: 658.583px;
+	top: 418px;
+	overflow: visible;
+}
+.Personalt_Butt_Class {
+	position: absolute;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: personal.html;
+	cursor: pointer;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ionic_md_person {
+	overflow: visible;
+	position: absolute;
+	width: 163.707px;
+	height: 163.707px;
+	left: 40px;
+	top: 33px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Personal_Class {
+	position: absolute;
+	left: 70px;
+	top: 205px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.Education_Butt_Class {
+	position: absolute;
+	width: 247px;
+	height: 247px;
+	left: 355px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: education.html;
+	cursor: pointer;
+}
+.Rectangle_1_bg {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ionic_md_school {
+	overflow: visible;
+	position: absolute;
+	width: 161.92px;
+	height: 138.788px;
+	left: 41px;
+	top: 58.429px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Education_Class {
+	position: absolute;
+	left: 62px;
+	top: 205px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+.About_Butt_Class {
+	position: absolute;
+	width: 405px;
+	height: 42.5px;
+	left: 757.583px;
+	top: 297px;
+	overflow: visible;
+}
+.about_bk_Class {
+	position: absolute;
+	left: 303px;
+	top: 0px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 98px;
+	height: 3px;
+	left: 305.5px;
+	top: 42.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Work_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Home_Class {
+	position: absolute;
+	left: 145px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Lucida Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
