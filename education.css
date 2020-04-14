@@ -51,34 +51,26 @@
 }
 .education_do_Class {
 	position: absolute;
-	width: 1920.083px;
-	height: 1200.5px;
-	left: 0.417px;
+	width: 1920px;
+	height: 1200px;
+	left: 0px;
 	top: -1px;
 	overflow: visible;
 }
 .Background_Class {
 	position: absolute;
-	width: 1920.083px;
-	height: 1200.5px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.Wall11_Class {
-	position: absolute;
 	width: 1920px;
 	height: 1200px;
-	left: -0.417px;
+	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 .Contact_butts_Class {
 	position: absolute;
-	width: 130.083px;
-	height: 31.5px;
-	left: 892px;
-	top: 1034px;
+	width: 1920px;
+	height: 1200px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 .fb {
@@ -86,8 +78,8 @@
 	position: absolute;
 	width: 31.5px;
 	height: 31.5px;
-	left: 98.583px;
-	top: 0px;
+	left: 991px;
+	top: 1034px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .gmail {
@@ -95,15 +87,23 @@
 	position: absolute;
 	width: 47.545px;
 	height: 31.5px;
+	left: 892.417px;
+	top: 1034px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Wall11_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1200px;
 	left: 0px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
 }
 .About_Butt_Class {
 	position: absolute;
 	width: 405px;
 	height: 206px;
-	left: 757.583px;
+	left: 758px;
 	top: 201px;
 	overflow: visible;
 }
@@ -204,7 +204,7 @@
 	position: absolute;
 	width: 1711px;
 	height: 200px;
-	left: 104.583px;
+	left: 105px;
 	top: 600px;
 	overflow: visible;
 }
@@ -473,7 +473,7 @@
 	position: absolute;
 	width: 750px;
 	height: 132px;
-	left: 584.583px;
+	left: 585px;
 	top: 819px;
 	overflow: visible;
 }
